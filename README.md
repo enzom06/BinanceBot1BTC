@@ -5,4 +5,4 @@ I couldn't use it for the challenge, but it was interesting to create this simpl
 If anyone is interested, you can use the script on this repository.
 
 The binance challenge:
-https://www.binance.com/en/activity/bitcoin-button-game
+https://www.binance.com/en/activity/bitcoin-button-game (link not available)
