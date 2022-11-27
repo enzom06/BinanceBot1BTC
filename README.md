@@ -1,8 +1,3 @@
-This is a simple clicker script to run in the browser.
+This is a clicker script to run in the browser for an over challenge.
 
-I couldn't use it for the challenge, but it was interesting to create this simple script.
-
-If anyone is interested, you can use the script on this repository.
-
-The binance challenge:
-https://www.binance.com/en/activity/bitcoin-button-game (link not available)
+I couldn't use it for the challenge (because it's not allowed, but it was interesting to create this script.
